@@ -1,3 +1,6 @@
-sadffdgafb
+The first line
 add to satge
-gdasg
+The third line
+add another line
+modification after adding to stage
+modified the _vimrc file
